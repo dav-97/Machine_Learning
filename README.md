@@ -8,3 +8,5 @@ ONZE VRAAG : Wat is de kans op neerslag en wat zal de duur daarvan zijn in de ma
 5. Elke (deel)opdracht is in het resultaat aanwezig.
 6. Elk teamlid is in staat een relevant antwoord te geven op vragen van panel
 
+
+https://github.com/flashypepo/mcl_2019-2020/blob/master/assignment%20casus/Toets%20Opdracht%202019-2020.pdf
