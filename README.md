@@ -1,5 +1,5 @@
 # Machine Learning
-ONZE VRAAG : World Happiness Rate voorspellen voor 2020.
+ONZE VRAAG : Wat is de kans op neerslag en wat zal de duur daarvan zijn in de maand Juni 2020?'.
 
 1. Je maakt gebruik van minimaal de volgende libraries: numpy , pandas , matplotlib ( seaborn ) en scikit-learn . Optioneel: maak ook gebruik van de libraries, die in de colleges zijn behandeld of benoemd.
 2. Alle code werkt zonder run-time errors (warnings zijn acceptabel).
