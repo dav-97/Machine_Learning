@@ -1,6 +1,6 @@
 # Machine Learning
 ONZE VRAGEN : 
-1. Wat is de kans op neerslag in de maand Juni 2020?'.
+1. Wat is de minumum en maximun hoeveelheid neerslag in mm in de maand Juni 2020?'.
 2. Wat zal de duur van de neerslag zijn in de maand Juni 2020?'
 ________________________________________________________________________________________________________________________________
 1. Je maakt gebruik van minimaal de volgende libraries: numpy , pandas , matplotlib ( seaborn ) en scikit-learn . Optioneel: maak ook gebruik van de libraries, die in de colleges zijn behandeld of benoemd.
