@@ -1,7 +1,7 @@
 # Machine Learning
 ONZE VRAGEN : 
-1. Zal de gemiddelde temperatuur in Maastricht stijgen in 2020?
-2. Zal de gemiddelde duur van de neerslag in Maastricht stijgen in 2020?
+1. Wat zal de gemiddelde temperatuur in Maastricht zijn in juni 2020?
+2. Wat zal de gemiddelde duur van de neerslag in Maastricht zijn in 2020?
 ________________________________________________________________________________________________________________________________
 1. Je maakt gebruik van minimaal de volgende libraries: numpy , pandas , matplotlib ( seaborn ) en scikit-learn . Optioneel: maak ook gebruik van de libraries, die in de colleges zijn behandeld of benoemd.
 2. Alle code werkt zonder run-time errors (warnings zijn acceptabel).
