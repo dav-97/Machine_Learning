@@ -1,7 +1,7 @@
 # Machine Learning
 ONZE VRAGEN : 
-1. Wat zal de minimum en maximum temperatuur in graden celsius zijn in de maand Juni 2020 in Maastricht?'.
-2. Wat zal de duur van de neerslag zijn in de maand Juni 2020 in Maastricht?'
+1. Zal de gemiddelde temperatuur in Maastricht stijgen in 2020?
+2. Zal de gemiddelde duur van de neerslag in Maastricht stijgen in 2020?
 ________________________________________________________________________________________________________________________________
 1. Je maakt gebruik van minimaal de volgende libraries: numpy , pandas , matplotlib ( seaborn ) en scikit-learn . Optioneel: maak ook gebruik van de libraries, die in de colleges zijn behandeld of benoemd.
 2. Alle code werkt zonder run-time errors (warnings zijn acceptabel).
