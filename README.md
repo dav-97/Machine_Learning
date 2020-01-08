@@ -12,3 +12,14 @@ ________________________________________________________________________________
 
 
 https://github.com/flashypepo/mcl_2019-2020/blob/master/assignment%20casus/Toets%20Opdracht%202019-2020.pdf
+
+
+4:)
+    over vraag 1:
+        gebruiken we TG, TN, TX, jaar en maand. en in die features zitten geen NaN waarden. Dus hier hoeven we niet op te
+        schonen in missende waarden
+    over vraag 2:
+        gebruiken we DR, jaar en maand. Deze feature heeft wel NaN waarden. Regels 1 tot en met 18628 hebben NaN waarden.
+        regel 18628 heeft als waarde voor datum 1-1-1957. Dus als we voor deze dataset alle waarden voor 1957 er uit halen,
+        ofwel alle regels van 1 t/m 18627, dan hebben we een schone dataset die we kunnen gebruiken voor onze voorspelling 
+        van vraag 2
