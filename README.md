@@ -23,3 +23,13 @@ https://github.com/flashypepo/mcl_2019-2020/blob/master/assignment%20casus/Toets
         regel 18628 heeft als waarde voor datum 1-1-1957. Dus als we voor deze dataset alle waarden voor 1957 er uit halen,
         ofwel alle regels van 1 t/m 18627, dan hebben we een schone dataset die we kunnen gebruiken voor onze voorspelling 
         van vraag 2
+        
+        
+Naam casus: Weersvoorspelling Maastricht juni 2020
+
+Korte omschrijving: In deze casus wordt er voorspelt wat de neerslag en de temperatuur zal zijn in Maastricht. Deze voorspelling wordt gedaan voor de maand juni in 2020.
+
+referentie: 
+
+KNMI
+http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
