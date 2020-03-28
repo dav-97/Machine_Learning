@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning VERBETERING
 ONZE VRAGEN : 
 1. Wat zal de gemiddelde temperatuur in Maastricht zijn in juni 2020?
 2. Wat zal de gemiddelde duur van de neerslag in Maastricht zijn in 2020?
@@ -35,4 +35,4 @@ KNMI
 http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
 Conclusie:
-Met behulp van onze onderzoek voorspellen wij dat de gemiddelde duur van regen in Maastricht in Juni 2020 1.45 uren zal zijn en de gemiddelde temperatuur 17.12 °C. Dit is natuurlijk berekend op basis van het gemiddelde van de afgelopen jaren. Zoals je in de grafieken terug ziet zijn er een heleboel punten die afwijken van het gemiddelde. Hierdoor is het bijna onmogelijk om te voorspellen wat de neerslagduur en de gemiddelde temperatuur zal zijn.
+Zie notebook.
